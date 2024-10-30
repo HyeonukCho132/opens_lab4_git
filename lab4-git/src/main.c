@@ -5,6 +5,6 @@
 int main(void) {
     foo();
     goo();
-    printf("main\n");
+    printf("main is good\n");
     return 0;
 }
